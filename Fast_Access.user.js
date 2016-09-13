@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Fast_Access
 // @version      1.0
-// @description  Move Inventory
+// @description  Mat drop list (fast access to patterns) Drakor Wiki (Buttons)
 // @author      Lorinthar & Imperial
 // @match        http://*.drakor.com*
 // ==/UserScript==
