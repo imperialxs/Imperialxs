@@ -6,7 +6,7 @@
 // @match        http://*.drakor.com*
 // ==/UserScript==
 (function(){
-var FastButtons = '<table align="center"><td style="background-color: #5e145b;"><div style="border:3px solid #d420cd"><a href="https://docs.google.com/spreadsheets/d/1P8vghr3Mnmxdx0ocY5Mwi6BYp5Dy4gf1VXTw1YK7dYk/edit#gid=1226207657" target="_new">Mat Drop List</a></div></td></body>'+
+var FastButtons = '<table align="center"><td style="background-color: #5e145b;"><div style="border:3px solid #d420cd"><a href="https://docs.google.com/spreadsheets/d/1P8vghr3Mnmxdx0ocY5Mwi6BYp5Dy4gf1VXTw1YK7dYk/edit#gid=1226207657" target="_new">Mat Drop List</a></div></td>'+
 '<td style="background-color: #5e145b;"><div style="border:3px solid #d420cd"> <a href="https://sites.google.com/site/drakorpedia/" target="_new">Drakor Wiki</a></td>'+
 '<td style="background-color: #9a6616;"><div id="load-tradeskills-Construction-patterns" class="navButton tradePatterns">Construction</div></td>'+
 '<td style="background-color: #9a6616;"><div id="load-tradeskills-Inscription-patterns" class="navButton tradePatterns">Inscription</div></td>'+
